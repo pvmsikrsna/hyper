@@ -16,7 +16,6 @@
 //!
 //! If just getting started, consider looking over the **[Guide](../guide/)**.
 
-extern crate bytes;
 extern crate cookie;
 extern crate futures;
 extern crate futures_cpupool;
